@@ -1,0 +1,5 @@
+usr/local/mysql/lib/libmysqld.a filter=lfs diff=lfs merge=lfs -text
+usr/local/mysql/bin/mysql_client_test_embedded filter=lfs diff=lfs merge=lfs -text
+usr/local/mysql/bin/mysql_embedded filter=lfs diff=lfs merge=lfs -text
+usr/local/mysql/bin/mysqld filter=lfs diff=lfs merge=lfs -text
+usr/local/mysql/bin/mysqltest_embedded filter=lfs diff=lfs merge=lfs -text
