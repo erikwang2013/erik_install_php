@@ -1,0 +1,11 @@
+#!/usr/bin/expect
+set timeout 60
+set password [lindex $argv 0]
+spawn /usr/local/mysql/bin/mysql_secure_installation
+expect {
+"enter for none" { send "\r"; exp_continue}
+"Y/n" { send "Y\r" ; exp_continue}
+"password" { send "$password\r"; exp_continue}
+"Cleaning up" { send "\r"}
+}
+interact 
