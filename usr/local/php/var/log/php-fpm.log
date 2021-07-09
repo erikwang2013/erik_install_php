@@ -1,0 +1,22 @@
+[10-Mar-2021 22:40:56] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[10-Mar-2021 22:40:56] ERROR: FPM initialization failed
+[10-Mar-2021 22:41:09] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[10-Mar-2021 22:41:09] ERROR: FPM initialization failed
+[10-Mar-2021 22:41:26] NOTICE: fpm is running, pid 24854
+[10-Mar-2021 22:41:26] NOTICE: ready to handle connections
+[10-Mar-2021 22:42:47] NOTICE: Terminating ...
+[10-Mar-2021 22:42:47] NOTICE: exiting, bye-bye!
+[10-Mar-2021 22:42:48] NOTICE: fpm is running, pid 22400
+[10-Mar-2021 22:42:48] NOTICE: ready to handle connections
+[10-Mar-2021 22:43:04] NOTICE: Terminating ...
+[10-Mar-2021 22:43:04] NOTICE: exiting, bye-bye!
+[10-Mar-2021 22:43:04] NOTICE: fpm is running, pid 27905
+[10-Mar-2021 22:43:04] NOTICE: ready to handle connections
+[10-Mar-2021 22:43:15] NOTICE: Terminating ...
+[10-Mar-2021 22:43:15] NOTICE: exiting, bye-bye!
+[10-Mar-2021 22:43:15] NOTICE: fpm is running, pid 28851
+[10-Mar-2021 22:43:15] NOTICE: ready to handle connections
+[10-Mar-2021 22:44:00] NOTICE: Terminating ...
+[10-Mar-2021 22:44:00] NOTICE: exiting, bye-bye!
+[10-Mar-2021 22:44:01] NOTICE: fpm is running, pid 2614
+[10-Mar-2021 22:44:01] NOTICE: ready to handle connections
