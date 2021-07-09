@@ -1,0 +1,22 @@
+2021/03/10 22:36:13 [emerg] 21813#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2021/03/10 22:36:13 [emerg] 21813#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2021/03/10 22:36:13 [emerg] 21813#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2021/03/10 22:36:13 [emerg] 21813#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2021/03/10 22:36:13 [emerg] 21813#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2021/03/10 22:36:13 [emerg] 21813#0: still could not bind()
+2021/03/10 22:40:56 [notice] 9589#0: signal process started
+2021/03/10 22:40:56 [error] 9589#0: open() "/usr/local/nginx/nginx.pid" failed (2: No such file or directory)
+2021/03/10 22:41:09 [notice] 11976#0: signal process started
+2021/03/10 22:41:09 [error] 11976#0: open() "/usr/local/nginx/nginx.pid" failed (2: No such file or directory)
+2021/03/10 22:41:26 [notice] 24857#0: signal process started
+2021/03/10 22:41:26 [error] 24857#0: open() "/usr/local/nginx/nginx.pid" failed (2: No such file or directory)
+2021/03/10 22:42:48 [notice] 22403#0: signal process started
+2021/03/10 22:42:48 [error] 22403#0: open() "/usr/local/nginx/nginx.pid" failed (2: No such file or directory)
+2021/03/10 22:43:04 [notice] 27908#0: signal process started
+2021/03/10 22:43:04 [error] 27908#0: open() "/usr/local/nginx/nginx.pid" failed (2: No such file or directory)
+2021/03/10 22:43:15 [notice] 28854#0: signal process started
+2021/03/10 22:43:15 [error] 28854#0: open() "/usr/local/nginx/nginx.pid" failed (2: No such file or directory)
+2021/03/10 22:44:01 [notice] 2617#0: signal process started
+2021/03/10 22:44:01 [error] 2617#0: open() "/usr/local/nginx/nginx.pid" failed (2: No such file or directory)
+2021/03/10 22:44:03 [notice] 2627#0: signal process started
+2021/03/10 22:44:03 [error] 2627#0: open() "/usr/local/nginx/nginx.pid" failed (2: No such file or directory)
